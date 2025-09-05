@@ -1,2 +1,2 @@
 # golang-leetcode
-leetcode solutions in golang
+Leetcode solutions in golang
